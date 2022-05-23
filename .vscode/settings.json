@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "nest",
+            "database": "${workspaceFolder:nest-tutorial}/db.sqlite"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
